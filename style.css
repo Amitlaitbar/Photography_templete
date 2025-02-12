@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&family=Varela+Round&display=swap");
+
+body {
+  padding: 0%;
+  margin: 0%;
+  background-size: cover;
+  font-family: "Ubuntu", sans-serif;
+}
+
+header {
+  height: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background-color: rgb(255, 255, 255);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.landScape {
+  background-image: url("./images/landSmain.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
+
+#wild {
+  background-image: url("./images/wild.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
+
+#street {
+  background-image: url("./images/street.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
+
+#sports {
+  background-image: url("./images/sports.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
+#doc {
+  background-image: url("./images/documentry.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
